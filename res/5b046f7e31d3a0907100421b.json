@@ -1,0 +1,1 @@
+{"name":"medal","defaultFps":10,"animations":{"bronze":{"offset":[0,0],"frameWidth":110,"frameHeight":108,"frameNumber":1,"loop":false,"fps":1},"silver":{"offset":[122,0],"frameWidth":110,"frameHeight":108,"frameNumber":1,"loop":false,"fps":1},"gold":{"offset":[240,0],"frameWidth":110,"frameHeight":108,"frameNumber":1,"loop":false,"fps":1}},"defaultAnimation":"bronze"}
